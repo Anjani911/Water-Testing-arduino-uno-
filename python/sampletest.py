@@ -29,7 +29,7 @@ drop_ranges = [
         "type": "colored drinks",
         "white": (55.3, 56.1),
         "uv": (31.7, 35.2),
-        "status": "safe"
+        "status": "safe (should test)"
     },
     {
         "type": "Visible Soil (Lightly Turbid)",
